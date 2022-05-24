@@ -1,0 +1,2 @@
+C:\Users\cinm-\OneDrive\Desktop\C++O\Lab2\x64\Debug\Lab2.exe
+C:\Users\cinm-\OneDrive\Desktop\MIUN\Year1\Programming\C++\C++O\Lab2\x64\Debug\Lab2.exe
